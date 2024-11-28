@@ -24,4 +24,5 @@ This Tableau dashboard visualizes customer reviews for British Airways (March 20
 - **Insights**: Boeing 747-400 scored highest (4.7), while entertainment ranked lowest (1.4).  
 
 ---
-
+## Preview  
+<img src="British Airlines Reviews.jpg" alt="Ride Patterns Dashboard" width="600">
